@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HueQuickStartAppAndroid.iml" filepath="$PROJECT_DIR$/HueQuickStartAppAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hue_YuragiApp.iml" filepath="$PROJECT_DIR$/Hue_YuragiApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
